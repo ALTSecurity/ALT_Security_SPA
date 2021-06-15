@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALT_Security_SPA", "ALT_Security_SPA\ALT_Security_SPA.csproj", "{4959E40E-1633-4D82-998E-83D9DD172174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4959E40E-1633-4D82-998E-83D9DD172174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4959E40E-1633-4D82-998E-83D9DD172174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4959E40E-1633-4D82-998E-83D9DD172174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4959E40E-1633-4D82-998E-83D9DD172174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF4D2E2-ACAF-4FB9-9376-7859234C967D}
+	EndGlobalSection
+EndGlobal
